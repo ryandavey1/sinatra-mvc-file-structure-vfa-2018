@@ -10,7 +10,7 @@ class Dog
   end
 
   def self.all
-    DOGS
+    dogs
   end
   # configure do
   # 	set :name, "app/views"
